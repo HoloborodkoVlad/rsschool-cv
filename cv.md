@@ -10,6 +10,6 @@
 ##  Code Example:
 ``` <script>    alert( 'Hello, world!' );  </script> ```
 ##  Junior Dev php project https://github.com/HoloborodkoVlad/lab_2
-## 2018 - 2022 Software engineering | APEPS department of Igor Sikorsky KPI,Udemy The Complete JavaScript + React Course - From Zero to Result
+## 2018 - 2022 Software engineering | APEPS department of Igor Sikorsky KPI, Udemy The Complete JavaScript + React Course - From Zero to Result
 ## 2022 - 2023 Software engineering | National Aviation University
 ##  English level B1 

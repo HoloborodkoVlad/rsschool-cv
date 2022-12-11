@@ -5,7 +5,7 @@
 ### My goal is to become a good developer and work at my dream job.I am a quick study and love working with a team. I have 2 years experience as a IT Recruiter
 ##  MY SKILLS: 
 + JS, REACT
-+ basic (c++, php, node js)
++ basic (c++, c, php, node js)
 + Git, Github  
 ##  Code Example:
 ``` <script>    alert( 'Hello, world!' );  </script> ```
